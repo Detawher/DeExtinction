@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"snd_fly_die_2",
+  "audioGroupId":{
+    "name":"audiogroup_soundeffect",
+    "path":"audiogroups/audiogroup_soundeffect",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":8.515918,
+  "name":"snd_fly_die_2",
+  "parent":{
+    "name":"SoundEffect",
+    "path":"folders/Sons/SoundEffect.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"snd_fly_die_2.mp3",
+  "type":0,
+  "volume":0.14,
+}

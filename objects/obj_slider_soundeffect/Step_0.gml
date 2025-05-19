@@ -1,0 +1,1 @@
+altera_valor();

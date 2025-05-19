@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"snd_dino_rugi_longo",
+  "audioGroupId":{
+    "name":"audiogroup_soundeffect",
+    "path":"audiogroups/audiogroup_soundeffect",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":2.612208,
+  "name":"snd_dino_rugi_longo",
+  "parent":{
+    "name":"dinossauro",
+    "path":"folders/Sons/SoundEffect/dinossauro.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"snd_dino_rugi_longo.mp3",
+  "type":0,
+  "volume":1.0,
+}

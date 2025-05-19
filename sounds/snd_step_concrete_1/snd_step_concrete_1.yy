@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"snd_step_concrete_1",
+  "audioGroupId":{
+    "name":"audiogroup_soundeffect",
+    "path":"audiogroups/audiogroup_soundeffect",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":0.437506,
+  "name":"snd_step_concrete_1",
+  "parent":{
+    "name":"SoundEffect",
+    "path":"folders/Sons/SoundEffect.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"snd_step_concrete_1.wav",
+  "type":0,
+  "volume":0.5,
+}

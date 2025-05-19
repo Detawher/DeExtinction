@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"snd_door_armario_closing",
+  "audioGroupId":{
+    "name":"audiogroup_soundeffect",
+    "path":"audiogroups/audiogroup_soundeffect",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":1.044875,
+  "name":"snd_door_armario_closing",
+  "parent":{
+    "name":"SoundEffect",
+    "path":"folders/Sons/SoundEffect.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"snd_door_armario_closing.mp3",
+  "type":0,
+  "volume":1.0,
+}

@@ -1,0 +1,1 @@
+room_save = room_player;

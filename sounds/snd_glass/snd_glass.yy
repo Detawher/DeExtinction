@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"snd_glass",
+  "audioGroupId":{
+    "name":"audiogroup_soundeffect",
+    "path":"audiogroups/audiogroup_soundeffect",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":1.17551,
+  "name":"snd_glass",
+  "parent":{
+    "name":"SoundEffect",
+    "path":"folders/Sons/SoundEffect.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"snd_glass.mp3",
+  "type":0,
+  "volume":1.0,
+}

@@ -1,0 +1,1 @@
+desenhar_slider();

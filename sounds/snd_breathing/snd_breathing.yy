@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"snd_breathing",
+  "audioGroupId":{
+    "name":"audiogroup_soundeffect",
+    "path":"audiogroups/audiogroup_soundeffect",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":8.463673,
+  "name":"snd_breathing",
+  "parent":{
+    "name":"SoundEffect",
+    "path":"folders/Sons/SoundEffect.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"snd_breathing.mp3",
+  "type":0,
+  "volume":1.0,
+}

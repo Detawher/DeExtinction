@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"snd_vento",
+  "audioGroupId":{
+    "name":"audiogroup_music",
+    "path":"audiogroups/audiogroup_music",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":58.0,
+  "name":"snd_vento",
+  "parent":{
+    "name":"Ambiente",
+    "path":"folders/Sons/Ambiente.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"snd_vento.wav",
+  "type":0,
+  "volume":0.6,
+}

@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"snd_confirm_music",
+  "audioGroupId":{
+    "name":"audiogroup_music",
+    "path":"audiogroups/audiogroup_music",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":1.333333,
+  "name":"snd_confirm_music",
+  "parent":{
+    "name":"Menu",
+    "path":"folders/Sons/Menu.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"snd_confirm_music.wav",
+  "type":0,
+  "volume":1.0,
+}
